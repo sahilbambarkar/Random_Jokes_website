@@ -39,5 +39,5 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 A button is linked to generating a new joke, so just click on the button and a random joke will be generated.
 
 
-# Output:
-![image](https://user-images.githubusercontent.com/69676094/122909634-0431bb80-d373-11eb-80cc-01b67ae5e656.png)
+# Live Demo:
+https://random-jokes--three.vercel.app/
